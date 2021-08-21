@@ -1,7 +1,5 @@
 import React from "react";
 import Users from "./Users";
-import Counter from "./Counter";
-import UserList from "./UserList";
 import TodoList from "./TodoList";
 
 function App({ name, lastname, age, subjects, ...props }) {
